@@ -1,0 +1,8 @@
+{
+  "name": "DarkCyber Cloud 2030",
+  "description": "A high-security, AI-powered cloud storage dashboard featuring encrypted file management, real-time security scanning with Gemini, and a futuristic cyberpunk UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
